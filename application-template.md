@@ -4,7 +4,7 @@
 >
 > See the [Grants Program Process](https://github.com/OAK-Foundation/Grants-Program#process) on how to submit a proposal.
 
-* **Project Name:** Name of your project (e.g. Auto-compound Dashboard)
+* **Project Name:** MusicMoon
 * **Team Name:** Legal name of your team (e.g. Iron Man)
 * **Payment Address:** Ethereum ERC20 USDC or Turing Native Token (TUR) wallet address. Please also specify the currency. (e.g. 0xb610... (USDC))
 * **[Level](https://github.com/OAK-Foundation/Grants-Program#levels):** 1, 2 or 3 
