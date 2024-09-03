@@ -5,9 +5,9 @@
 > See the [Grants Program Process](https://github.com/OAK-Foundation/Grants-Program#process) on how to submit a proposal.
 
 * **Project Name:** MusicMoon
-* **Team Name:** Legal name of your team (e.g. Iron Man)
-* **Payment Address:** Ethereum ERC20 USDC or Turing Native Token (TUR) wallet address. Please also specify the currency. (e.g. 0xb610... (USDC))
-* **[Level](https://github.com/OAK-Foundation/Grants-Program#levels):** 1, 2 or 3 
+* **Team Name:** MusicMoon
+* **Payment Address:** Ethereum ERC20 USDC: (0xf356bd5d619968564584e9ea5efd0500c24abe4b) 
+* **[Level](https://github.com/OAK-Foundation/Grants-Program#levels):**  Level 3
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
