@@ -21,17 +21,66 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 
 Please provide the following:
 
-* If the name of your project is not descriptive, a tag line (one sentence summary).
+* If the name of your project is not descriptive, a tag line (one sentence summary):
+MusicMoon Empowering Artists:
+“An AI-powered music creation & Web3 platform that integrates music and instrument NFTs with a DAO to create a supportive ecosystem where artists can create, retain rights, earn royalties, and connect with fans.”
+
+
 * A brief description of your project.
+
+“Create, Earn your Royalties & Build your Community”
+MusicMoon is an “AI-powered music creation & Web3 platform that integrates music and instrument NFTs with a DAO to create a supportive ecosystem where artists can create, retain rights, earn royalties, and connect with fans.” The platform integrates LiveLoop "The Looping Software for Live Music Performance", and it's new AI feature which enhances live performances with real-time AI variations. MusicMoon features a Community Engagement DAO for artist-audience interaction, a Platform Governance DAO for stakeholder decision-making, and an NFT marketplace for minting and trading music NFTs. The MusicMoon ICO establishes the platform's economy, supporting transactions and community governance. MusicMoon is also being developed on multiple other blockchains, and the token will interconnect all MusicMoon platforms across different blockchains, ensuring seamless integration and functionality throughout the entire ecosystem. 
+
 * An indication of how your project relates to / integrates into OAK Network or Turing Network.
+
+By integrating with OAK Network and Turing Network, MusicMoon can enhance its platform’s efficiency, security, and scalability, offering artists and users a more sophisticated and automated experience. This partnership would also align MusicMoon with the broader Polkadot ecosystem, opening up further opportunities for cross-chain interactions and growth. MusicMoon, as a platform that integrates AI and blockchain technology for the creation, distribution, and monetization of music, can leverage both OAK Network and Turing Network in several ways:
+
+	1.	Automated Royalties Distribution: By integrating with OAK Network, MusicMoon can automate the distribution of royalties to artists and contributors in a trustless, transparent manner. Smart contracts on Turing Network could be used to automatically trigger payments based on predefined conditions (e.g., a certain number of streams or sales).
+	2.	Scheduled NFT Drops: OAK Network’s automation capabilities can be utilized to schedule and automate NFT releases or drops. Artists on MusicMoon could set up their NFT sales or auctions to occur at specific times or under certain conditions, ensuring they reach their audience at the optimal moment.
+	3.	Cross-Chain Asset Management: Given that OAK Network operates within the Polkadot ecosystem, MusicMoon can enable cross-chain interactions, allowing users to manage their NFTs and other digital assets across different blockchains seamlessly. This would enhance the platform’s interoperability and user reach.
+	4.	Complex Workflows for Music Rights Management: Turing Network’s programmable automation could be employed to manage complex workflows related to music rights, licensing, and distribution. For example, automated processes could be set up to handle disputes, issue licenses, or transfer ownership of music rights, all governed by smart contracts.
+
 * An indication of why your team is interested in creating this project.
+
+The MusicMoon team is driven by a shared passion for transforming the music industry through the innovative use of AI and blockchain technology. Each member brings a unique blend of expertise that fuels our collective vision to empower artists, giving them control over their creations, rights, and revenues in ways that have never been possible before.
+
+Josep Garcés, our Founder & CEO, has a deep-rooted commitment to revolutionizing the music space, motivated by his extensive experience as both a musician and a technologist. His journey from creating LiveLoop to founding MusicMoon is a testament to his dedication to providing artists with tools that allow them to retain ownership, engage directly with their fans, and monetize their work effectively. Josep’s leadership is guided by a vision to decentralize the music industry, offering a platform where artists can flourish without the constraints of traditional industry barriers.
+- [LinkedIn: Josep Garcés](https://www.linkedin.com/in/josepgarces/)
+
+Muhammad Usman Shamas, our CTO, brings technical robustness to this vision with his background in blockchain development. His interest lies in ensuring that MusicMoon is not only a powerful tool for artists but also a secure, scalable, and efficient platform that can adapt to the evolving needs of the industry.
+- [LinkedIn: Muhammad Usman Shamas](https://www.linkedin.com/in/usman-shamas56/)
+
+Leila Salieva, our CMO, is passionate about bridging the gap between artists and their audiences. She recognizes the potential of Web3 technologies to create more meaningful and direct connections between creators and their fans. Her strategic marketing insights are aimed at amplifying MusicMoon’s reach and influence, ensuring that the platform resonates with both artists and music lovers.
+- [LinkedIn: Leila Salieva](https://www.linkedin.com/in/leylas/)
+
+Our AI Engineers, Dr. Michael Taenzer and Robin Doerfler, are at the forefront of integrating cutting-edge AI capabilities into music creation. Their work is driven by the desire to push the boundaries of what’s possible in music composition and performance, providing artists with innovative tools that enhance creativity and artistic expression.
+- [LinkedIn: Dr. Michael Taenzer](https://www.linkedin.com/in/michael-taenzer/)
+- [LinkedIn: Robin Doerfler](https://www.linkedin.com/in/robin-doerfler/)
+
+Chris Scarlat, our Designer, is focused on crafting an intuitive and engaging user experience that makes MusicMoon accessible and appealing to a wide range of users. His background in brand and UX/UI design ensures that the platform is not only functional but also visually compelling.
+- [LinkedIn: Chris Scarlat](https://www.linkedin.com/in/scarlat/)
+
+Finally, our Mentors and Advisors, Maricarmen Rodriguez and Rishabh Gupta, are dedicated to guiding MusicMoon’s strategic growth. Their expertise in business operations, financial planning, and venture growth is instrumental in positioning MusicMoon for long-term success in the competitive landscape of the music industry.
+- [LinkedIn: Maricarmen Rodriguez](https://www.linkedin.com/in/maria-del-carmen-rodr%C3%ADguez-dacosta-a5a87411b/)
+- [LinkedIn: Rishabh Gupta](https://www.linkedin.com/in/web3incubation)
+
 
 ### Project Details
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
 * Mockups/designs of any UI components
+We are pleased to inform you that MusicMoon is already live, and we have fully figured out all aspects of the platform, including the UI/UX design. Our team has meticulously crafted and tested the user interface to ensure a seamless experience for our users. Given that we are in the live stage, all UI components are not just mockups or designs but are functional and operational within the platform.
+
+This allows us to move forward with confidence in the final state of our project, as our platform is actively being used and continuously improved based on real user feedback.
+
+
 * Data models / API specifications of the core functionality
+
+We are pleased to share that MusicMoon is already live, and our data models and API specifications for core functionality have been fully developed and implemented. These models and APIs are designed to support the seamless operation of our platform, including NFT creation, royalty distribution, and DAO management.
+
+Since our platform is in the live stage, these components are not just theoretical but are actively being used in production. This ensures that our system is robust, scalable, and ready to handle real-world demands as we continue to grow and enhance the platform.
+
 * An overview of the technology stack to be used
 * Documentation of core components, protocols, architecture, etc. to be deployed
 * PoC/MVP or other relevant prior work or research on the topic
